@@ -1,5 +1,5 @@
 # 4-Bit-ALU
-My implementation of a 4 bit 2s complement ALU with basic operations 
+My implementation of a 4 bit 2s complement ALU with basic operations
 
 # Description
 
