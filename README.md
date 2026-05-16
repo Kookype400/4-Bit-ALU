@@ -32,8 +32,8 @@ These operations are as follows: If the S input corresponds to these operations,
 
 For this operation, the 3 important inputs are A, B, and F. Since the circuitry for 2s Complement Addition and Subtraction are very similar, I used the F input to signal
 which operation I want to do. If F = 0, O is simply assigned to A + B, but if F = 1, O is assigned to A + (~B + 1), which is equivalent to A - B. I chose to use that
-syntax, as that is the process I use to find the negative version of a number in 2s complement. To implement a 4 Bit Adder and Subtractor, I essentially implemented 1 Bit Adder and replicated that design 4 times. One thing to note about addition/subtraction is that I do not have a way to flag overflow, meaning that sometimes you may add 2 
-negative numbers or 2 positive numbers, and get an answer that is opposite sign of what you were expecting.
+syntax, as that is the process I use to find the negative version of a number in 2s complement. One thing to note about addition/subtraction is that I do not have a way to
+flag overflow, meaning that sometimes you may add 2 negative numbers or 2 positive numbers, and get an answer that is opposite sign of what you were expecting.
 
 # Arithmetic Left Shift/ Arithmetic Right Shift
 
