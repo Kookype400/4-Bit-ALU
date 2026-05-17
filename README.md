@@ -30,7 +30,7 @@ These operations are as follows: If the S input corresponds to these operations,
 
 ### AND Testbench Screenshot
 
-<img width="616" height="103" alt="AND_Tests" src="https://github.com/user-attachments/assets/9a4d964f-42cf-456e-8f7e-a845a450900d" />
+<img width="682" height="103" alt="Screenshot 2026-05-17 161246" src="https://github.com/user-attachments/assets/ab5726af-7f2f-4e69-bbc5-84ee3b0e29db" />
 
 ### OR Testbench Screenshot
 
