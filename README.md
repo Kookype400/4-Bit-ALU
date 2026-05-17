@@ -28,7 +28,7 @@ If the S input is one of the Undefined Values, in the simulation I have it displ
 
 These operations are as follows: If the S input corresponds to these operations, O is assigned to either A & B, A | B, or A ^ B.
 
-## AND Testbench Screenshots
+### AND Testbench Screenshots
 <img width="616" height="103" alt="AND_Tests" src="https://github.com/user-attachments/assets/9a4d964f-42cf-456e-8f7e-a845a450900d" />
 
 
