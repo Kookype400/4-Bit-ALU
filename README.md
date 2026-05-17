@@ -28,6 +28,9 @@ If the S input is one of the Undefined Values, in the simulation I have it displ
 
 These operations are as follows: If the S input corresponds to these operations, O is assigned to either A & B, A | B, or A ^ B.
 
+## AND Testbench Screenshots
+![My Image](C:\Users\conne\OneDrive\Pictures)
+
 # ADD/SUB
 
 For this operation, the 3 important inputs are A, B, and F. Since the circuitry for 2s Complement Addition and Subtraction are very similar, I used the F input to signal
