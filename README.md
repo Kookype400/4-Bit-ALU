@@ -83,4 +83,4 @@ treated as a 2s complement input.
 Commands to Run Testbench
 1. iverilog -o Four_Bit_ALU_tb.vvp Four_Bit_ALU_tb.v
 2. vvp Four_Bit_ALU_tb.vvp
-3. gtkwave
+3. gtkwave Four_Bit_ALU.vcd
