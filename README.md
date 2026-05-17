@@ -63,7 +63,7 @@ idea on how I implemented this operation was by essentially hard coding a shift 
 the 2 Least Significant Bits of B. The only difference in how I implemented Right Shift vs. Left Shift, is that for Right Shift I preserved the MSB, while Left Shift adds 0
 as the new bit. If you select this operation with a B value that is greater than 3 (0011), then the amount you shift by is still determined by the 2 Least Significant Bits
 (Ex: 1101 will shift by 1 bit). It is also worth mentioning that for this operation, the lower 2 bits of B are treated as an unsigned, not 2s complement, but A is still
-treated as a 2s complement input. 
+treated as a 2s complement input. For this ALU, I decided to implement Arithmetic Shift over Logical Shift, as this ALU operates in 2s complement, and thus in the case of a right shift, the Sign Bit has to be preserved.
 
 ### ALS Testbench Screenshot
 
