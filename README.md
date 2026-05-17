@@ -29,7 +29,7 @@ If the S input is one of the Undefined Values, in the simulation I have it displ
 These operations are as follows: If the S input corresponds to these operations, O is assigned to either A & B, A | B, or A ^ B.
 
 ## AND Testbench Screenshots
-![image](C:\Users\conne\OneDrive\Pictures\AND_Tests.png)
+![Alt text](C:\Users\conne\OneDrive\Pictures\AND_Tests.png)
 
 # ADD/SUB
 
